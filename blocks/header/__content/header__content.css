@@ -1,3 +1,10 @@
+/*Новый элемент был добавлен, т.к. блок не может иметь position: relativ, а некоторые элементы внутри этого блока имеют position: absolute.*/
 .header__content {
+  display: flex;
+  align-items: center;
   position: relative;
+  min-height: 600px;
+  max-height: 756px;
+  height: 100vh;
+  overflow: hidden;
 }

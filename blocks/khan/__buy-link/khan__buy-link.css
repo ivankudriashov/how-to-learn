@@ -1,12 +1,10 @@
 .khan__buy-link {
-  height: 608px;
   margin-left: 48px;
   font-weight: 400;
   font-size: 30px;
   line-height: 42px;
   color: #2f80ed;
   text-decoration: none;
-  vertical-align: top;
 }
 .khan__buy-link:hover {
   opacity: .5;

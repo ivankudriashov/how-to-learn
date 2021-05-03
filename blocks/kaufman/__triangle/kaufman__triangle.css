@@ -1,6 +1,10 @@
 .kaufman__triangle {
+  background: url(../../../images/kaufman-triangle.svg);
   position: absolute;
   top: 0;
   right: -210px;
-  animation: rotation 20s infinite linear;
+  z-index: 1;
+  /*height и width для треугольника в брифе нет. но я их задал, т.к иначе он не будет отображаться*/
+  height: 1006px;
+  width: 995px;
 }

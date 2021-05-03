@@ -2,5 +2,7 @@
   display: flex;
   justify-content: center;
   margin-top: 50px;
-  height: 280px;
+  min-height: 280px;
+  position: relative;
+  top: 50px;
 }

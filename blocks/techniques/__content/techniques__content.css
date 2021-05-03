@@ -1,4 +1,7 @@
+/*Новый элемент добавлен, т.к. необходмо отцентровать контент, не задавая блоку внешних отступов. techniques.css пустой, т.к. если не будет контента, то и самого блока не будет*/
 .techniques__content {
+  width: 80%;
+  padding-top: 100px;
   margin: 0 auto;
   display: flex;
   justify-content: center;
