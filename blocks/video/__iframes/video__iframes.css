@@ -1,7 +1,6 @@
 .video__iframes {
   display: flex;
   justify-content: center;
-  margin-top: 50px;
   min-height: 280px;
   position: relative;
   top: 50px;

@@ -3,4 +3,6 @@
   flex-wrap: wrap;
   width: 920px;
   list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
